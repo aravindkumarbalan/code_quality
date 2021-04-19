@@ -1,8 +1,5 @@
 body {
-    body-color:red;
-}
-body {
-    color:white;
+    color:red;
     font-size:10px;
 }
 
@@ -11,5 +8,5 @@ body.colorred {
 }
 
 html {
-    font-size:15ox;
+    font-size:1rem;
 }
