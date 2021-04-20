@@ -1,0 +1,12 @@
+body {
+    color:red;
+    font-size:10px;
+}
+
+body.colorred {
+    color:red;
+}
+
+html {
+    font-size:1rem;
+}
